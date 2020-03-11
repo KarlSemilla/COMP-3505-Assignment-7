@@ -13,4 +13,5 @@ http://34.70.4.78:8080/WebGoat/login
 13. %'; DROP TABLE access_log;--;
 
 -- SQL Injection (advanced)
-1. 
+3. '; SELECT * FROM user_system_data;-- Dave's Password: passW0rD
+5. 
